@@ -91,7 +91,7 @@ The schedule of topics and readings below is prelimenary. The exam dates are fix
 Primarily multiple-choice, possibly a few short answer questions. Will consist of two parts: a non-cumulative portion covering the material in the final third of the course (you can think of this as a 3rdth midterm) and a cumulative portion that will cover themes from the entire semester.
 
 ### Course paper (25% of final grade)
-You will write a short paper in which you choose a topic from the course material, review existing relevant research, and propose a novel experiment to address a research question of your choosing. Schedule: due Friday 12/02/2022
+You will write a short paper in which you choose a topic from the course material, review existing relevant research, and propose a novel experiment to address a research question of your choosing. More details to follow.
 
 
 ### Assignments (20% of Final Grade)
