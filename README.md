@@ -34,7 +34,7 @@ See also the [course google calendar](https://calendar.google.com/calendar/u/0ci
 ## Textbook
 **Cognition** by Steven Most and Marvin Chun, Oxford University Press 2021, 1st Edition ISBN: 9780199950638. This textbook will be the primary required reading throughout the course. Additional readings will be posted in bCourses. 
 
-<img src="https://s3.amazonaws.com/books-data/eans/9780199950638/images/large.jpg" alt="drawing" width="100"/>
+![Cognition by Most and Chun](cognition.jpg)
 
 -   Digital copies at the library:
     [https://ucbears.lib.berkeley.edu/991085972128806532_C115932639/view](https://ucbears.lib.berkeley.edu/991085972128806532_C115932639/view)
