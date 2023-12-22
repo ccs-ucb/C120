@@ -17,7 +17,7 @@ This course provides a survey of central topics in the science of cognition. We 
 -   Course Assistant: Annya Dahmani (adahmani@berkeley.edu)
 -   Course page in catalogue: [https://classes.berkeley.edu/content/2024-spring-cogsci-c100-001-lec-001](https://classes.berkeley.edu/content/2024-spring-cogsci-c100-001-lec-001)
 -   Exams: **two midterms** (in-class, multiple-choice, 30% of grade), **one final** exam (20% of grade)
--   Assignments: **four short reflection excersises** (20% of grade, complete/incomplete) + **2 Hours Psych RPP** (5% of grade, complete/incomplete) + **Course Paper** (25% of grade)
+-   Assignments: **five short reflection excersises** (20% of grade, complete/incomplete) + **2 Hours Psych RPP** (5% of grade, complete/incomplete) + **Course Paper** (25% of grade)
 
 ## Important Dates
 See also the [course google calendar](https://calendar.google.com/calendar/u/0cid=Y18wYzY1MTNiYjU3YWEwODg0OGExZjRhMzU3ZDFjOGI3ZTFiNjJhNTRiNTA4YjU3NTUxYjVjMTc5ODMxZWRhZjg1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
@@ -29,6 +29,7 @@ See also the [course google calendar](https://calendar.google.com/calendar/u/0ci
 -   Assignment 3 due: Friday 03/22/24
 -   Assignment 4 due: 04/19/24
 -   Course paper due: 04/28/24
+-   Assignment 4 due: 04/25/24
 -   Final Exam (in person): Tuesday May 7th
 
 ## Textbook
@@ -77,7 +78,7 @@ The schedule of topics and readings below is prelimenary. The exam dates are fix
 | Tue 04/16/24  | Language                           | Readings TBD                                                      |
 | Thu 04/18/24  | Cultural Evolution                 | Readings TBD                                                      |
 | Tue 04/23/24  | Review Lecture                     |                                                                   |
-| Thu 04/25/24  | TBD          |                                                                   |
+| Thu 04/25/24  | TBD         |                                                                   |
 
 ## Requirements and Grading
 
@@ -96,7 +97,7 @@ You will write a short paper in which you choose a topic from the course materia
 
 ### Assignments (20% of Final Grade)
 
-Each of the four assignments is worth `5%` of your grade and graded `complete/incomplete`. 
+Each of the five assignments is worth `4%` of your grade and graded `complete/incomplete`. 
 
 **Assignment 1: Providing Context** You will complete a short google form asking questions about your studies at cal so far, your previous experiences or classes in cognition or adjacent topics, your interests and goals for this course and your degree, and any other relevant information that you would like to share. The purpose of this assignment is to provide a mechanism for you to share anything you would like me to know, and to help me adapt the class to evolving student needs. **Due: 01/21/24** 
 
@@ -107,6 +108,9 @@ You will be asked to write short answers to a few simple questions about your ex
 
 **Assignment 4: Course Paper Proposal**
 You will submit a short proposal for your course paper. The purpose of this assignment is to ensure that everyone is thinking about thier course paper before it is due. **Due: 04/19**
+
+**Assignment 5: Course evaluation
+Complete a short evaluation of the course. **Due: 04/25**
 
 ### RPP Participation (5% of final grade)
 Two hours of participation in the psychology department’s research participation pool (RPP) are required (2 RPP credits) and worth 5% of your course grade. If you do not want to participate in RPP, speak to the instructor during the first two weeks of the semester for an alternative assignment. 
